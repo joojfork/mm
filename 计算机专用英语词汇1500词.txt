@@ -1,0 +1,1704 @@
+﻿计算机专用英语词汇1500词
+
+Sample TextSample Text
+电脑日常用语和术语大集合~~！！！
+
+
+      电脑专业英语1500词
+      《电脑专业英语》 
+
+      1. file n. 文件；v. 保存文件 
+      2. command n. 命令，指令 
+      3. use v. 使用，用途 
+      4. program n. 程序 
+      5. line n. (数据，程序)行，线路 
+      6. if conj. 如果 
+      7. display vt. 显示，显示器 
+      8. set v. 设置，n. 集合 
+      9. key n. 键，关键字，关键码 
+      10. list n. 列表，显示，v. 打印 
+      11. by prep. 凭，靠，沿 
+      12. press v. 按，压 
+      13. with prep. 用，与，随着 
+      14. format n. 格式 
+      15. change v. 更换，改变，变动 
+      16. cursor n. 光标 
+      17. directory n. 目录，索引簿 
+      18. from prep. 从，来自，以来 
+      19. menu n. 菜单，目录 
+      20. option n. 任选，选择，可选项 
+      21. character n. 字符，符号，特性 
+      22. current n. 电流 
+      23. type n. 型，类型；v. 打印 
+      24. screen n. 屏幕，屏；v. 屏蔽 
+      25. specify v. 指定，规定，确定 
+      26. move v. 移动 
+      27. disk n. 盘，磁盘 
+      28. text n. 正文，文本 
+      29. drive v. 驱动；n. 驱动器 
+      30. see v. 看，看出，查看 
+      31. name n. 名，名称；vt. 命名 
+      32. record n. 记录 
+      33. box n. 箱，匣，(逻辑)框 
+      34. database n. 数据库 
+      35. help v. & n. 帮助 
+      36. memory n. 记忆存储，存储器 
+      37. which pron. 哪个，a. 那一个 
+      38. all a. 全，全部；ad. 完全 
+      39. on ad. 接通，导电，开 
+      40. copy n. 复制，v. 拷贝 
+      41. shell n. 壳，外壳 
+      42. delete vt. 删除，删去，作废 
+      43. enter v. 键入，送入 
+      44. margin n. 余量，边缘，边际 
+      45. mark n. 标记；vt. 加标记 
+      46. also ad. & conj. 也，亦，还 
+      47. do v. 做，干；n. 循环 
+      48. information n. 信息，情报 
+      49. choose v. 挑选，选择，选定 
+      50. select vt. 选择 
+      51. group n. 组，群 
+      52. first a. & ad. & n. 第一，首先 
+      53. field n. 字段，域，栏，场 
+      54. procedure n. 过程，程序，工序 
+      55. print v. 打印，印刷 
+      56. return v. 返回，回送 
+      57. number n. 数字，号码；vt. 编号 
+      58. selected a. 精选的 
+      59. want v. 需要，应该，缺少 
+      60. window n. 窗口 
+      61. message n. 信息，消息，电文 
+      62. dialog n. & vt. 对话 
+      63. example n. 例子，实例 
+      64. create vt. 创立，建立 
+      65. insert vt. 插入 
+      66. related a. 相关的 
+      67. item n. 项，项目，条款 
+      68. edit vt. 编辑，编排，编篡 
+      69. marked a. 有记号的 
+      70. area n. (区)域，面积，方面 
+      71. parameter n. 参数，参变量 
+      72. then ad. & conj. 那时，则 
+      73. variable a. 可变的；n. 变量 
+      74. tab n. 制表键 
+      75. up ad. 上，向上，a. 高的 
+      76. string n. 行，字符串 
+      77. each a. & ad. 各(自)，每个 
+      78. active a. 激活的，活动的 
+      79. topic n. 题目，论题 
+      80. start v. 起动，开始，启动 
+      81. mode n. 态，方式，模 
+      82. selection n. 选择 
+      83. function n. 函数，功能，操作 
+      84. word n. 字(词)，单词 
+      85. make vt. 制造，形成，接通 
+      86. right a. 右边的，正确的 
+      87. value n. 值 
+      88. button n. 按钮 
+      89. index n. 索引，变址，指数 
+      90. without prep. 没有，在…以外 
+      91. appear vi. 出现，显现，好像 
+      92. left a. & n. 左边(的) 
+      93. save v. 保存 
+      94. next n. 下一次，a. 其次 
+      95. off ad. (设备)关着，脱离 
+      96. following a. 下列的，以下的 
+      97. control v. 控制，支配，管理 
+      98. only a. 唯一的，ad. 仅仅 
+      99. user n. 用户 
+      100. end n. 结束，终点，端点 
+      101. system n. 系统 
+      102. contain vt. 包含，包括 
+      103. time n. 时间；vt. 计时 
+      104. letter n. 字母，信 
+      105. data n. 数据 
+      106. setting n. 设置，调整 
+      107. desire v. & n. 期望 
+      108. position n. 位置；vt. 定位 
+      109. down ad. 落下，降低，减少 
+      110. task n. 任务；v. 派给…任务 
+      111. view n. & v. 视图，景象 
+      112. switch n. & v. 开关，转换，切换 
+      113. include vt. 包括，包含 
+      114. get v. 得到，获得，取 
+      115. default v. 缺省，预置，约定 
+      116. structure n. 结构，构造，构件 
+      117. into prep. 向内，进入 
+      118. path n. 路径，通路，轨道 
+      119. blank n. 空白，间隔 
+      120. open v. 打开，开启，断开 
+      121. add v. & n. 加，增加，添 
+      122. enable vt. 启动，恢复正常操作 
+      123. operation n. 操作，运算，动作 
+      124. erase v. 擦除，取消，删除 
+      125. filename n. 文件名 
+      126. search v. 检索，查询，搜索 
+      127. another a. 另一个，别的 
+      128. last a. & n. 最后(的) 
+      129. column n. 列，柱，栏 
+      130. after prep. & ad. 以后，后面 
+      131. prompt n. & v. 提示 
+      132. two n. & a. 二，两，双 
+      133. execute v. 实行，实施 
+      134. about ad. 关于，大约，附近 
+      135. escape v. 逃避，逸出，换码 
+      136. error n. 错误，误差，差错 
+      137. currently ad. 目前，现在 
+      138. extension n. 扩充，延伸 
+      139. same a. 同样的，相同的 
+      140. status n. 状态，态，状况 
+      141. run v. 运行，运转，操作 
+      142. argument n. 变元，自变量 
+      143. statement n. 语句，陈述，命题 
+      144. shift v. 转义，换档，移位 
+      145. store n. & vt. 存储，存储器 
+      146. scroll vt. 上滚(卷)；n. 纸卷 
+      147. replace vt. 替换，置换，代换 
+      148. macro n. 宏，宏功能，宏指令 
+      149. page n. 页面，页，版面 
+      150. quit v. 退出，结束 
+      151. define vt. 定义，规定，分辨 
+      152. reference n. & a. 参考；参考的 
+      153. other a. 别的，另外的 
+      154. while conj. 当…的时候 
+      155. pressing n. & a. 压制；紧急的 
+      156. restore vt. 恢复，复原 
+      157. top n. 顶，尖端 
+      158. how ad. 如何，怎样，多么 
+      159. color n. 颜色，色彩，(彩)色 
+      160. allow v. 允许，容许 
+      161. block n. (字，信息，数据)块 
+      162. decimal n. & a. 十进制；十进制的 
+      163. main a. 主要的 
+      164. definition n. 定义，确实，清晰度 
+      165. between prep. 在…之间，中间 
+      166. optional a. 任选的，可选的 
+      167. date n. 日期 
+      168. remove v. 除去，移动 
+      169. arrow n. 箭头，指针 
+      170. label n. 标签，标号，标识符 
+      171. within prep. 在…以内 
+      172. issue v. 发行，出版，流出 
+      173. different a. 不同的，各种各样的 
+      174. available a. 可用的 
+      175. returned a. 退回的 
+      176. associate v. 相联，联想，关联 
+      177. attribute n. 属性，标志，表征 
+      178. dos 磁盘操作系统 
+      179. before prep. 以前，前，先 
+      180. order n. & vt. 指令，次序；排序 
+      181. modify vt. 修改，改变，变址 
+      182. array n. 数组，阵列 
+      183. mouse n. 鼠标器 
+      184. note n. 注解，注释 
+      185. locate vt. 定位 
+      186. video n. 视频，电视 
+      187. printer n. 打印机，印刷机 
+      188. bar n. 条，杆，棒 
+      189. bottom n. & a. 底，基础；底下的 
+      190. carriage n. 滑架，托架 
+      191. content n. 含量，容量，内容 
+      192. either a. & pron. 任何一个，各 
+      193. ok ad. & a. 对，好；全对 
+      194. space n. 空格键，空间 
+      195. editor n. 编辑程序 
+      196. exist vi. 存在，生存，有 
+      197. scope n. 范围，显示器 
+      198. paragraph n. 段(落)，节，短讯 
+      199. multi (词头)多 
+      200. clear v. 清除，弄干净 
+      201. exit n. & vi. 出口；退出 
+      202. report vt. & n. 报告，报表 
+      203. execution n. 执行 
+      204. backup n. 备份，后备，后援 
+      205. version n. 版本 
+      206. find v. 寻找，发现 
+      207. pointer n. 指针，指示字 
+      208. subset n. 子集，子设备 
+      209. keyboard n. 键盘 
+      210. full a. & ad. & n. 全(的)，满 
+      211. check v. 校对，栓查，核算 
+      212. should v. & aux. 应当，该 
+      213. single a. & n. 单个的；一个，单 
+      214. positioning n. 定位 
+      215. provide v. 提供 
+      216. title n. 题目，标题 
+      217. expression n. 表达式 
+      218. through prep. & ad. 通过，直通 
+      219. toggle n. & v. 触发器；系紧 
+      220. code n. 码，代码，编码 
+      221. such a. & pron. 这样的，如此 
+      222. beginning n. 起点，初 
+      223. guide n. 向导，指南，入门 
+      224. tree n. 树，语法树 
+      225. environment n. 环境 
+      226. but 但是，可是，除非，不过 
+      227. device n. 设备，器件，装置 
+      228. highlight n. 增强亮度，提示区 
+      229. call v. 调用，访问，呼叫 
+      230. continue v. 连续，继续 
+      231. indicate vt. 指示，表示 
+      232. until prep. 到…为止，直到 
+      233. begin v. 开始，着手，开端 
+      234. place vt. 放，位，地点 
+      235. rename vt. 更名，改名 
+      236. swap v. 交换，调动 
+      237. work n. 工作 
+      238. remain vi. 剩下，留下，仍然 
+      239. close v. & a. 关闭，闭合；紧密的 
+      240. combination n. 结合，组合 
+      241. profile n. 简要，剖面，概貌 
+      242. unless conj. 除非 
+      243. so pron. & conj. 如此，这样 
+      244. except prep. 除…之外，除非 
+      245. turn v. & n. 转，转动；圈，匝 
+      246. back n. 背面，反向，底座 
+      247. sure a. & ad. 确实的；的确 
+      248. section n. 节，段，区域 
+      249. follow v. 跟随，跟踪 
+      250. split v. 分开，分离 
+      251. need v. 必须，需要 
+      252. access n. 存取，选取，接近 
+      253. additional a. 附加的，辅助的 
+      254. cancel v. 删除，取消，作废 
+      255. document n. 文献，资料，文件 
+      256. case n. 情况，场合 
+      257. numeric n. & a. 数字的，分数 
+      258. go vi. 运行，达到 
+      259. load n. & v. 装入，负载，寄存 
+      260. try n. (尝)试，试验 
+      261. size n. 尺寸，大小，容量 
+      262. entire a. & n. 完全的；总体 
+      263. leave v. 离开，留下 
+      264. history n. 历史 
+      265. second n. & a. 秒，第二(的) 
+      266. reflow v. & n. 回流，逆流 
+      267. output n. 输出，输出设备 
+      268. out n. & a. 输入，在外 
+      269. both a. & ad. 两，双，都 
+      270. install vt. 安装 
+      271. source n. 源，电源，源点 
+      272. way n. 路线，途径，状态 
+      273. assign vt. 赋值，指定，分派 
+      274. support vt. 支援，支持，配套 
+      275. specific a. 特殊的，具体的 
+      276. join v. & n. 连接，并(运算) 
+      277. expand v. 扩充，扩展，展开 
+      278. like a. 类似的，同样的 
+      279. diskette n. 软磁盘，软盘片 
+      280. skip v. 跳跃(定位)，跳过 
+      281. application n. 应用 
+      282. confirmation n. 认可 
+      283. whether conj. 无论，不管 
+      284. hold v. 保持 
+      285. click n. “卡搭”声，插销 
+      286. write v. 写，存入 
+      287. byte n. (二进制的)字节 
+      288. abbreviate vt. 缩写，省略 
+      289. show v. 显示，呈现，出示 
+      290. otherwise ad. & a. 另外 
+      291. working n. 工作，操作，作业 
+      292. delimiter n. 定界符，分界符 
+      293. location n. 定位，(存储器)单元 
+      294. perform v. 执行，完成 
+      295. graphic n. & a. 图形；图形的 
+      296. read v. 读，读阅 
+      297. confirm vt. 证实，确认 
+      298. sort v. 分类，排序 
+      299. clause n. 条款，项目，子句 
+      300. once ad. & n. 只一次，一旦 
+      301. however conj. 然而，可是 
+      302. extend v. 扩充 
+      303. look v. 看，查看 
+      304. starting a. 起始的 
+      305. now ad. & n. 此刻，现在 
+      306. original n. & a. 原文；原(初)始的 
+      307. correspond vi. 通信(联系) 
+      308. property n. 性(质)，特征 
+      309. several a. & n. 若干个，几个 
+      310. learn v. 学习，训练 
+      311. cause n. 原因，理由 
+      312. bracket n. (方)括号，等级 
+      313. omit vt. 省略，删去，遗漏 
+      314. running a. 运行着的，游动的 
+      315. sub-directory n. 子目录 
+      316. edge n. 棱，边，边缘，界限 
+      317. form n. 格式，表格，方式 
+      318. instruction n. 指令，指导 
+      319. ascii n. 美国信息交换标准码 
+      320. below a. & prep. 下列的；低于 
+      321. standard n. 标准 
+      322. occurrence n. 出现，发生 
+      323. lock n. & v. 锁，封闭；自动跟踪 
+      324. append vt. 附加，增补 
+      325. destination n. 目的地，接收站 
+      326. password n. 口令，保密字 
+      327. point n. 点，小数点，句号 
+      328. variety n. 变化，种类，品种 
+      329. many a. & n. 许多，多数 
+      330. buffer n. 缓冲器 
+      331. useful a. 有用的 
+      332. object n. 对象，目标，物体 
+      333. again ad. 再，又，重新，也 
+      334. operating a. 操作的，控制的 
+      335. carry v. 进位，带 
+      336. update v. 更新，修改，校正 
+      337. moving n. & a. 活动的，自动的 
+      338. coprocessor n. 协同处理器 
+      339. overlay v. 覆盖，重叠 
+      340. practice n. 实习，实践 
+      341. navigation n. 导航 
+      342. automatically ad. 自动地，机械地 
+      343. total n. & v. 总数；总计 
+      344. previous a. 早先的，上述的 
+      345. software n. 软件 
+      346. shortcut n. 近路，捷径 
+      347. long a. 长的，远的 
+      348. unique a. 唯一的，独特的 
+      349. part n. 部分，零件 
+      350. updated a. 适时的，更新的 
+      351. internal a. 内部的 
+      352. fill v. 填充 
+      353. basic n. & a. 基本；基本的 
+      354. math n. 数学 
+      355. since prep. 自从…以来 
+      356. determine v. 确定 
+      357. making n. 制造，构造 
+      358. center n. 中心，中央 
+      359. already ad. 已经，早已 
+      360. keyword n. 关键字(词) 
+      361. action n. 操作，运算 
+      362. condition n. 条件，情况；vt. 调节 
+      363. quick a. & ad. 快速的，灵敏的 
+      364. assigned a. 指定的，赋值的 
+      365. give vt. 给出，赋予，发生 
+      366. large a. (巨)大的，大量的 
+      367. chapter n. 章，段 
+      368. computer n. 计算机 
+      369. complete v. & a. 完成；完整的 
+      370. past a. 过去的，结束的 
+      371. match v. 比较，匹配，符合 
+      372. recover v. 恢复，回收 
+      373. always ad. 总是，一直，始终 
+      374. require v. 需要，要求 
+      375. opening n. 打开，断路，孔 
+      376. network n. & vt. 网络；联网 
+      377. sign n. 符号，信号，记号 
+      378. release vt. & n. 释放，核发，版 
+      379. three a. & n. 三(的) 
+      380. recall vt. 撤消，复活，检索 
+      381. deletion n. 删去(部分)，删除 
+      382. fixed a. 固定的，不变的 
+      383. amount vt. & n. 总计；合计 
+      384. alias n. 别名，代号，标记 
+      385. quote n. & v. 引号；加引号 
+      386. correct a. & vt. 正确的；改正 
+      387. else ad. & conj. 否则，此外 
+      388. maximum n. & a. 最大(的)，最高 
+      389. under prep. 在…下面(之下) 
+      390. take v. 取，拿 
+      391. switching n. 开关，转接，交换 
+      392. element n. 元件，元素，码元 
+      393. modification n. 改变，修改 
+      394. modified a. 修改的，变更的 
+      395. input n. 输入，输入设备 
+      396. uppercase n. 大写字母 
+      397. plus prep. 加，加上，外加 
+      398. found v. 建立，创办 
+      399. debug vt. 调试 
+      400. force v. & n. 强制；压力，强度 
+      401. lowercase n. 下档，小写体 
+      402. just ad. 恰好 
+      403. undo vt. 取消，废除 
+      404. environ vt. 围绕，包围 
+      405. why ad. 为什么 
+      406. temporary a. 暂时的，临时的 
+      407. put v. 存放(记录)，放置 
+      408. instead ad. (来)代替，当作 
+      409. encounter v. & n. 遇到，碰到 
+      410. across prep. 交叉，越过 
+      411. matching n. 匹配，调整 
+      412. wildcard n. 通配符 
+      413. spill v. 漏出，溢出，漏失 
+      414. level n. 水平，级，层次 
+      415. browse v. 浏览 
+      416. speech n. 说话，言语，语音 
+      417. occur vi. 发生，出现，存在 
+      418. memo n. 备忘录 
+      419. prior a. 先验的，优先的 
+      420. loaded a. 有负载的 
+      421. length n. (字，记录，块)长度 
+      422. round v. 舍入，四舍五入 
+      423. variant n. & a. 变体，易变的 
+      424. floppy n. 软磁盘 
+      425. machine n. 机器，计算机 
+      426. square n. & a. 正方形；方形的 
+      427. supply vt. & n. 电源，供给 
+      428. home n. & a. 家，出发点 
+      429. normal a. & n. 正常，标准 
+      430. onto prep. 向…，到…上 
+      431. during prep. 在…期间 
+      432. module n. 模块(程序设计) 
+      433. monochrome n. 单色 
+      434. assistance n. 辅助设备，帮助 
+      435. tell n. 讲，说，教，计算 
+      436. library n. (程序…)库，图书馆 
+      437. demonstration n. (公开)表演，示范 
+      438. stack n. 栈，堆栈，存储栈 
+      439. even a. & ad. 偶数的；甚至 
+      440. evaluate v. 估计，估算，求值 
+      441. times n. 次数 
+      442. previously ad. 以前，预先 
+      443. directly ad. 直接地，立即 
+      444. logical a. 逻辑的，逻辑“或” 
+      445. template n. 标准框，样板，模板 
+      446. calling n. 呼叫，调用，调入 
+      447. later a. 更后的，后面的 
+      448. driver n. 驱动器，驱动程序 
+      449. therefore ad. & conj. 因此，所以 
+      450. saving a. 保存的 
+      451. detail n. 元件，零件，细节 
+      452. linker n. 连接程序 
+      453. loop n. 圈，环；(程序)循环，回路 
+      454. process vt. 处理，进程，加工 
+      455. scheme n. 方案，计划，图 
+      456. every a. 每个，全体，所有的 
+      457. refer v. 访问，引用，涉及 
+      458. possible a. 可能的，潜在的 
+      459. above a. 在…之上，大于 
+      460. overview n. 综述，概要 
+      461. result n. 结果 
+      462. syntax n. 语法，文法，句法 
+      463. abbreviation n. 缩短，省略，简称 
+      464. bios n. 基本输入/输出系统 
+      465. hidden a. 隐藏的，秘密的 
+      466. null n. & a. 空(的)，零(的) 
+      467. send v. 发送 
+      468. private a. 专用的，私人的 
+      469. hard a. 硬的 
+      470. hardware n. 硬件 
+      471. say v. 说，显示，假定 
+      472. equal vt. & n. 等于，相等；等号 
+      473. pack n. 压缩，包裹 
+      474. minus a. & n. 负的；负数，减 
+      475. alternate a. 交替的，备用的 
+      476. collapse v. 崩溃，破裂 
+      477. corner n. 角，角落，转换 
+      478. present a. & v. 现行的；提供 
+      479. interpreter n. 解释程序，翻译机 
+      480. advance v. & n. 进步，提高；进展 
+      481. forward a. 正向的 
+      482. fast a. & ad. 快速的 
+      483. special a. 专用的，特殊的 
+      484. slash n. 斜线 
+      485. utility n. & a. 实用程序；实用性 
+      486. regardless a. 不注意的，不考虑的 
+      487. disable vt. 禁止，停用 
+      488. compatible a. 可兼容的，可共存的 
+      489. depend vi. 随…而定，取决于 
+      490. empty a. 空，零，未占用 
+      491. alphabetical a. 字母(表)的，abc的 
+      492. branch n. 分支，支线；v. 转换 
+      493. resume v. 重(新)开(始) 
+      494. multiple a. 多次的，复杂的 
+      495. monitor n. 监视器，监督程序 
+      496. configuration n. 配置 
+      497. replacement n. 替换，置换，更新 
+      498. required a. 需要的 
+      499. macros n. 宏命令(指令) 
+      500. table n. 表 
+      501. loss n. 损耗，损失 
+      502. batch n. 批，批量，成批 
+      503. exact a. 正确的 
+      504. aboveboard ad. & a. 照直，公开的 
+      505. activate vt. & n. 使激活，驱动 
+      506. around ad. & prep. 周围，围绕 
+      507. slow a. & ad. 慢速的 
+      508. floating a. 浮动的，浮点的 
+      509. refresh v. 刷新，更新，再生 
+      510. stop v. 停止，停机 
+      511. pass v. 传送，传递，遍(数) 
+      512. public a. 公用的，公共的 
+      513. eject n. 弹出 
+      514. ignore vt. 不管，忽略不计 
+      515. share v. 共享，共用 
+      516. sequence n. 顺序，时序，序列 
+      517. consist vi. 符合，包括 
+      518. step n. 步，步骤，步长，档 
+      519. double a. 两倍的，成双的 
+      520. come vi. 来，到，出现 
+      521. lower a. 下部的，低级的 
+      522. describe vt. 描述，沿…运行 
+      523. count v. 计数，计算 
+      524. pop v. 上托，弹出(栈) 
+      525. valid a. 有效的 
+      526. suspend v. 中止，暂停，挂起 
+      527. enhance vt. 增强，放大，夸张 
+      528. separate v. & a. 分隔，分离，各自的 
+      529. echo n. 回波，反射波 
+      530. necessary a. 必要的，必然的 
+      531. greater than 大于 
+      532. able a. 能…的，有能力的 
+      533. marking n. 标记，记号，传号 
+      534. ask v. 请求，需要 
+      535. term n. 项，条款，术语 
+      536. bring v. 引起，产生，拿来 
+      537. warning n. & a. 报警，预告 
+      538. less a. & ad. 更小，更少 
+      539. whose pron. 谁的 
+      540. comment n. & vi. 注解，注释 
+      541. effect n. 效率，作用，效能 
+      542. expanding a. 扩展的，扩充的 
+      543. on-line a. 联机的 
+      544. reorder v. (按序)排列，排序 
+      545. direct a. 直接的 
+      546. enclose vt. 封闭，密封，围住，包装 
+      547. reset vt. 复位，置“0” 
+      548. various a. 不同的，各种各样的 
+      549. paper n. 纸，文件，论文 
+      550. prevent v. 防止，预防 
+      551. side n. (旁)边，面，侧(面) 
+      552. push v. 推，按，压，进(栈) 
+      553. programming n. 程序设计，编程序 
+      554. upper a. 上的，上部的 
+      555. row n. 行 
+      556. pressed a. 加压的，压缩的 
+      557. temporarily ad. 暂时 
+      558. day n. 日，天，白天，时代 
+      559. repaint vt. 重画 
+      560. redefine vt. 重新规定(定义) 
+      561. relation n. 关系，关系式 
+      562. dimension n. 尺寸，维，因次 
+      563. boundary n. 边界，界限，约束 
+      564. zoom v. 变焦距 
+      565. initialize v. 初始化 
+      566. personal a. 个人的，自身的 
+      567. hello int. & v. 喂！；呼叫 
+      568. true a. & n. 真，实，选中 
+      569. wish v. & n. 祝愿，希望 
+      570. font n. 铅字，字形 
+      571. know v. 知道，了解，认识 
+      572. convert v. 转换，变换 
+      573. global n. 全局，全程，全局符 
+      574. still a. & n. & v. 静止的；静；平静 
+      575. installation n. 安装，装配 
+      576. invoke vt. 调用，请求 
+      577. interactive a. 交互式，交互的 
+      578. described a. 被看到的，被发现的 
+      579. century n. 世纪 
+      580. literal a. 文字的 
+      581. rather ad. 宁可，有点 
+      582. exclusive a. 排斥，排它性 
+      583. marker n. 记号，标记，标志 
+      584. wait v. 等待 
+      585. appropriate a. 适当的，合适的 
+      586. fit v. & n. 适合，装配；非特 
+      587. adapter n. 适配器，转换器 
+      588. filter n. 滤波器，滤光材料 
+      589. break v. 断开，撕开，中断 
+      590. backward ad. 向后，逆，倒 
+      591. searching n. 搜索 
+      592. receive v. 接收 
+      593. dual a. 对偶的，双的 
+      594. retry vt. 再试，复算 
+      595. normally ad. 正常地，通常 
+      596. exactly ad. 正好，完全，精确地 
+      597. immediately ad. 直接地 
+      598. separated a. 分开的 
+      599. high a. 高 
+      600. equivalent a. 相等的，等效的 
+      601. light n. & a. 光(波，源)；轻的 
+      602. zero n. 零，零位，零点 
+      603. storage n. 存储，存储器 
+      604. width n. 宽度 
+      605. language n. 语言 
+      606. startup n. 启动 
+      607. much a. & n. 很多，许多，大量 
+      608. per prep. 每，按 
+      609. over prep. 在…上方 
+      610. mirror n. & v. 镜，反射，反映 
+      611. request n. & vt. 请求 
+      612. keypad n. 小键盘 
+      613. keep v. 保持，保存 
+      614. resident a. 驻留的 
+      615. learning n. 学问，知识 
+      616. talk v. 通话，谈话 
+      617. summary n. 摘要，汇总，提要 
+      618. well n. & a. 井；好，良好 
+      619. link n. & v. 链接；连接，联络 
+      620. according to a. 按照，根据 
+      621. identify v. 识别，辨认 
+      622. designated a. 指定的，特指的 
+      623. pertain vi. 附属，属于，关于 
+      624. expansion n. 展开，展开式 
+      625. incompatible a. 不兼容的 
+      626. blinking n. 闪烁 
+      627. month n. 月份 
+      628. precede v. 先于 
+      629. readily ad. 容易地，不勉强 
+      630. transportable a. 可移动的 
+      631. appropriately ad. 适当地 
+      632. routine n. 程序，例行程序 
+      633. ready a. 就绪，准备好的 
+      634. listing n. 列表，编目 
+      635. newly ad. 新近，重新 
+      636. year n. (一)年，年度，年龄 
+      637. contact n. 接触，触点 
+      638. session n. 对话，通话 
+      639. own a. & v. 自己的；拥有 
+      640. redraw vt. 再拉 
+      641. here ad. 在这里 
+      642. manual a. 手工的，手动的 
+      643. particular a. 特定的，特别的 
+      644. rectangle n. 矩形 
+      645. additive a. & n. 相加的；附加物 
+      646. similar a. 相似的 
+      647. assembly n. 汇编，安装，装配 
+      648. copyright n. 版权 
+      649. description n. 描述 
+      650. retrieve v. 检索 
+      651. mistake n. 错误 
+      652. produce v. 生产，制造 
+      653. ram 随机存取存储器 
+      654. exception n. 例外，异常，异议 
+      655. digit n. 数字，位数，位 
+      656. reverse v. & a. 反向的，逆 
+      657. minimum n. & a. 最小(的)，最低 
+      658. enough a. & ad. 足够的，充足的 
+      659. although conj. 虽然，即使 
+      660. reindex v. & n. 变换(改变)符号 
+      661. third a. & n. 第三，三分之一 
+      662. red a. & n. 红色(的) 
+      663. along prep. & ad. 沿着 
+      664. test n. & v. 测试 
+      665. small a. 小的，小型的 
+      666. feed v. 馈给，(打印机)进纸 
+      667. company n. & v. 公司；交际，交往 
+      668. movie n. 影片，电影(院) 
+      669. compile vt. 编译 
+      670. frequently ad. 常常，频繁地 
+      671. undefined a. 未定义的 
+      672. state n. & vt. 状态；确定 
+      673. tick v；n. 滴答(响)；勾号(√) 
+      674. accept vt. 接受，认可，同意 
+      675. intense a. 强烈的，高度的 
+      676. documentation n. 文件编制，文本 
+      677. asterisk n. 星号(*) 
+      678. easily ad. 容易地，轻易地 
+      679. become v. 成为，变成，适宜 
+      680. address vt. & n. 寻址；地址 
+      681. interface n. 接口 
+      682. pause vi. 暂停 
+      683. repeat v. 重复 
+      684. restart v. 重新启动，再启动 
+      685. assumed a. 假定的 
+      686. speed n. 速度 
+      687. entry n. 输入，项(目)，入口 
+      688. combine v. 组合，联合 
+      689. organize v. 组织，创办，成立 
+      690. finished a. 完成的 
+      691. mixed a. 混合的 
+      692. permit v. 许可，容许 
+      693. formatting n. 格式化 
+      694. root n. 根 
+      695. symbol n. 符号，记号 
+      696. binary n. & a. 二进制；双态的 
+      697. whenever ad. & conj. 随时 
+      698. reach v. & n. 范围，达到范围 
+      699. caution n. & v. 警告，注意 
+      700. subtotal n. & v. 小计，求部分和 
+      701. card n. 卡片，插件(板) 
+      702. general a. 通用的 
+      703. associated a. 联合的，相联的 
+      704. transfer v. 传送，转换，转移 
+      705. connect v. 连接 
+      706. partition v. 划分，分区，部分 
+      707. hexadecimal a. 十六进制的 
+      708. generate vt. 产生，发生，生成 
+      709. specification n. 说明书，规则说明书 
+      710. customize vt. 定制，定做 
+      711. far a. 远的，遥远的 
+      712. nest v. 嵌套，后进先出 
+      713. duplicate vt. 复制，转录，加倍 
+      714. compression n. 压缩，浓缩 
+      715. unable a. 不能的 
+      716. means n. 方法，手段 
+      717. alternately ad. 交替地，轮流地 
+      718. intensity n. 强度，亮度 
+      719. reading n. 读，读数 
+      720. let v. 让，允许 
+      721. explicitly ad. 明显地，显然地 
+      722. compare v. 比较，对照，比喻 
+      723. sector n. & v. 扇区，段；分段 
+      724. problem n. 问题，难题 
+      725. vertically ad. 竖直地，直立地 
+      726. horizontally ad. 水平地 
+      727. backspace v. 退格，回退 
+      728. terminate v. 端接，终止 
+      729. people n. 人们 
+      730. short a. & n. 短的；短路 
+      731. drag vt. 拖，拉，牵，曳 
+      732. formatted a. 有格式的 
+      733. preview n. & vt. 预映 
+      734. underscore vt. 在…下面划线 
+      735. correctly ad. 正确地 
+      736. initially ad. 最初，开头 
+      737. reformat v. 重定格式 
+      738. inside n. & a. 内部，内容；内部的 
+      739. integrate v. 综合，集成 
+      740. controlled a. 受控制的，受操纵的 
+      741. period n. 周期 
+      742. huge a. 巨大的，非常的 
+      743. determined a. 坚决的，毅然的 
+      744. trailing n. & a. 结尾；尾随的 
+      745. seek v. 查找，寻找，探求 
+      746. introduction n. 入门，介绍，引进 
+      747. indent v. 缩排 
+      748. base n. 基，底，基地址 
+      749. integer n. 整数 
+      750. attempt vt. & n. 尝试，试验 
+      751. twice n. & ad. 两次，两倍于 
+      752. formed a. & n. 成形 
+      753. subscript n. 注脚，下标 
+      754. tiny a. 微小的，微量的 
+      755. model n. 模型，样机，型号 
+      756. correction n. 校正，修正 
+      757. rating n. 定额，标称值 
+      758. secondary a. 辅助的，第二的 
+      759. opened a. 开路的，断开的 
+      760. limit n. 极限，限界 
+      761. sun n. 太阳，日 
+      762. translate v. 翻译，转换，平移 
+      763. reason n. 原因，理由 
+      764. colon n. 冒号“:” 
+      765. avoid vt. 避免，取消，无效 
+      766. range n. 范围，域，区域 
+      767. allocate vt. 分配 
+      768. wordperfect a. 一字不错地熟记的 
+      769. simply ad. 简单地，单纯地 
+      770. verify vt. 鉴定，检验，核对 
+      771. manner n. 方法，样式，惯例 
+      772. direction n. 方向，定向，指向 
+      773. portion n. & vt. 部分；分配 
+      774. emulator n. 仿真器，仿真程序 
+      775. successful a. 成功的 
+      776. applied a. 适用的，外加的 
+      777. sum n. 和，合计，总额
+778. achieve vt. 完成，实现 
+      779. together ad. 一同，共同，相互 
+      780. affect vt. 影响，改变，感动 
+      781. delay v. 延迟 
+      782. free a. 自由的，空闲的 
+      783. properly ad. 真正地，适当地 
+      784. kind n. 种类，属，级，等 
+      785. splitting n. 分区(裂) 
+      786. feature n. 特征，特点 
+      787. console n. 控制台，操作台 
+      788. operate v. 操作，运算 
+      789. kernel n. 内核(核心)程序 
+      790. easy a. & ad. 容易的；容易地 
+      791. modifier n. 修改量，变址数 
+      792. invalid a. 无效的 
+      793. compiler n. 编译程序(器) 
+      794. dot n. 点 
+      795. beep n. 蜂鸣声，嘀嘀声 
+      796. face n. 面，表面 
+      797. random a. 随机的 
+      798. facility n. 设施，装备，便利 
+      799. heading n. 标题 
+      800. asynchronous a. 异步的，非同步的 
+      801. series n. 序列，系列，串联 
+      802. individual a. 个别的，单个的 
+      803. explain v. 阐明，解释 
+      804. paste n. 湖，胶，膏 
+      805. welcome vt. & n. 欢迎 
+      806. six n. & a. 六(个)(的) 
+      807. early a. & ad. 早期，初期 
+      808. wrap v. & n. 包装，缠绕 
+      809. blue a. & n. 蓝(色)，青色 
+      810. queue v. & n. 排队，队列 
+      811. interrupt v. & n. 中断 
+      812. respect n. & vt. 遵守，关系 
+      813. converted a. 转换的，变换的 
+      814. common a. 公用的 
+      815. hyphen n. 连字符，短线 
+      816. serial a. 串行的，串联的 
+      817. loading n. 装入，加载，存放 
+      818. retain vt. 保持，维持 
+      819. setup n. 安排，准备，配置 
+      820. freeze v. 冻结，结冰 
+      821. intend vt. 打算，设计 
+      822. explanation n. 说明，注解，注释 
+      823. certain a. 确实的，确定的 
+      824. zap v. 迅速离去，击溃 
+      825. archive vt. 归档 
+      826. negative a. 负的，否定的 
+      827. image n. 图像，影像，映像 
+      828. platform n. 平台，台架 
+      829. often ad. 经常，往往，屡次 
+      830. signal n. & v. 信号；发信号 
+      831. cpu 控制处理部件 
+      832. bit n. 比特；(二进制)位 
+      833. fully ad. 十分，完全 
+      834. deactivate vt. 释放，去活化 
+      835. especially ad. 特别(是)，尤其 
+      836. usually ad. 通常，平常，一般 
+      837. recommend vt. 推荐，建议 
+      838. maintain vt. 维护，保养，保留 
+      839. important a. 严重的，显著的 
+      840. central a. 中央的，中心的 
+      841. addition n. 加法，增加 
+      842. anytime ad. 在任何时候 
+      843. analyst n. 分析员 
+      844. false a. 假(布尔值)，错误 
+      845. black a. & n. 黑色的，黑色 
+      846. gather n. 聚集，集合 
+      847. cycle n. & v. 周，周期；循环 
+      848. relative a. 相对的 
+      849. offer v. 提供，给予，呈现 
+      850. ending n. 结束 
+      851. rent v. & n. 租用；裂缝 
+      852. sentence n. 句(子) 
+      853. remember v. 存储，记忆，记住 
+      854. proper a. 真的，固有的 
+      855. design v. 设计 
+      856. examine v. 检验，考试，审查 
+      857. initial a. 最初的，初始的 
+      858. corrupt v. & a. 恶化；有毛病的 
+      859. buy v. 买，购买，赢得 
+      860. increase v. 增加，增大 
+      861. host n. 主机 
+      862. sample n. & v. 样品，样本；抽样 
+      863. pending a. 悬而未决的，未定的 
+      864. divide v. 除 
+      865. boot n. 引导，靴 
+      866. hide v. 隐藏，隐蔽 
+      867. half n. & a. & ad. 一半，半个 
+      868. magenta n. & a. 深红色(的) 
+      869. leading n. & a. 引导(的) 
+      870. wrong a. & ad. n. 错误(的) 
+      871. today n. & ad. 今天 
+      872. least a. & ad. 最小(的) 
+      873. opposite a. & n. & ad. 相反的 
+      874. white a. & n. 白色(的) 
+      875. override v. & n. 超越，克服 
+      876. brown a. & n. 褐色(的)，棕色 
+      877. hex a. & n. 六角形的 
+      878. rest n. & v. 剩余，休息 
+      879. damage n. & vt. 损伤，故障 
+      880. instant a. 立刻的，直接的 
+      881. reserved a. 保留的，预订的 
+      882. technology n. 工艺，技术，制造学 
+      883. handle n. 处理，句柄 
+      884. apply v. 应用，适用于，作用 
+      885. stand v. 处于(状态)，保持 
+      886. payment n. 支付，付款 
+      887. kilobyte n. 千字节(kb) 
+      888. parenthesis n. 括弧，圆括号
+889. scan v. 扫描，扫视，搜索 
+      890. locating n. 定位，查找 
+      891. developer n. 开发者，显影剂 
+      892. murder n. 弄坏，毁掉 
+      893. flush v. 弄平，使齐平 
+      894. unlock v. 开锁，打开 
+      895. movement n. 传送，移动 
+      896. consecutive a. 连续的，连贯的 
+      897. collection n. 集合，聚集，画卷 
+      898. front a. 前面的，正面的 
+      899. addressing n. 寻址 
+      900. prefix n. 前缀 
+      901. carousel n. 圆盘传送带 
+      902. safety n. 安全，保险 
+      903. static a. 静态的，不变的 
+      904. background n. 背景，底色，基础 
+      905. product n. (乘)积，产品 
+      906. assignment n. 赋值，分配 
+      907. bad a. 坏的，不良的 
+      908. declare v. 说明 
+      909. adjust vt. 调整，调节，控制 
+      910. recognize v. 识别 
+      911. route n. 路线，路由 
+      912. respectively ad. 分别地 
+      913. unsuccessful a. 不成功的，失败的 
+      914. received a. 被接收的，公认的 
+      915. navigate v. 导航，驾驶 
+      916. considered a. 考虑过的，被尊重的 
+      917. due a. 到期的，应付(给)的 
+      918. recently ad. 近来 
+      919. room n. 房间，空间 
+      920. descend v. 下降，落下 
+      921. fact n. 事实 
+      922. alter v. 改变，修改 
+      923. track n. 磁道，轨道 
+      924. precedence n. 优先权 
+      925. skeleton n. 骨架，框架 
+      926. log n. & v. 记录，存入 
+      927. star n. 星形，星号 
+      928. hot a. 热的 
+      929. replaceable a. 可替换的 
+      930. accessible a. 可以使用的 
+      931. involve vt. 涉及，卷入，占用 
+      932. configure vt. 使成形 
+      933. question n. 问题 
+      934. green n. & a. 绿色绿色的 
+      935. entirely ad. 完全地，彻底地 
+      936. helpful a. 有帮助的，有用的 
+      937. middle a. 中间的 
+      938. declared a. 承认的，申报的 
+      939. compress vt. 压缩，精减 
+      940. graphically ad. 用图表表示 
+      941. auto a. 自动的 
+      942. automatic a. 自动的 
+      943. aligned a. 对准的，均衡的 
+      944. anywhere ad. 在任何地方 
+      945. terminal n. 终端，端子 
+      946. door n. 舱门，入口，孔 
+      947. expire v. 终止，期满 
+      948. resolution n. 分辨率 
+      949. local a. 局部的，本地的 
+      950. semicolon n. 分号(；) 
+      951. reread vt. 重读 
+      952. overwrite v. 重写 
+      953. critical a. & n. 临界的；临界值 
+      954. manager n. 管理程序 
+      955. capability n. 能力，效力，权力 
+      956. affected a. 受了影响的 
+      957. allowed a. 容许的 
+      958. border n. 边界，框，界限 
+      959. cache n. 高速缓存 
+      960. bell n. 铃，钟 
+      961. play v. 玩，奏，放音，放象 
+      962. quickly a. 快，迅速地 
+      963. fastback n. 快速返回 
+      964. answer n. & v. 响应，回答；答复 
+      965. represent v. 表示，表现，代表 
+      966. difference n. 差分，差 
+      967. highest a. 最高的 
+      968. project n. 项目，计划，设计 
+      969. physical a. 物理的，实际的 
+      970. matter n. 物质，内容，事情 
+      971. hercules n. 大力神，大力士 
+      972. reduce v. 减少，降低，简化 
+      973. publisher n. 出版者，发行人 
+      974. trim n. 区标，微调 
+      975. substitute v. 代替，替换，代入 
+      976. disabled a. 禁止的，报废的 
+      977. recent a. 近来的 
+      978. positive a. 正的，阳的，正片 
+      979. upgrade v. 升级，提高质量 
+      980. instance n. & vt. 例子，情况；举例 
+      981. happen vi. (偶然)发生，碰巧 
+      982. elapsed vi. & n. 经过 
+      983. future n. & a. 将来，未来的 
+      984. midnight n. & a. 午夜 
+      985. though conj. 虽然，尽管 
+      986. nor conj. 也不 
+      987. mono a. & n. 单音的 
+      988. slide v. & n. 滑动，滑动触头 
+      989. abort v. & n. 中断，故障 
+      990. jump v. & n. 转移 
+      991. toward prep. 朝(着…方向) 
+      992. throughout prep. 贯穿，整，遍 
+      993. via prep. 经过，经由 
+      994. among prep. 在…之中，中间 
+      995. neither a. & pron. (两者)都不 
+      996. layer n. & v. 层，涂层 
+      997. scatter v. 散射，分散，散布 
+      998. attention n. 注意(信号) 
+      999. convention n. 常规，约定，协定 
+      1000. conventional a. 常规的，习惯的 
+      1001. tool n. 工具，刀 
+      1002. handler n. 处理程序 
+      1003. processor n. 处理机，处理程序 
+      1004. desktop a. 台式的 
+      1005. build v. 建造，建立，组合 
+      1006. windowing n. 开窗口 
+      1007. development n. 开发，研制，显影 
+      1008. exceed v. 超过，大于 
+      1009. understand v. 懂，明白(了)，理解 
+      1010. horizontal a. 水平的，横向的 
+      1011. alphabetically ad. 按字母表顺序 
+      1012. meet v. “与”，符合，满足 
+      1013. protect vt. 保护 
+      1014. reserve vt. 保留，预定，预约 
+      1015. clock n. 时钟，计时器，同步 
+      1016. manifest vt. 表明，显示，显现 
+      1017. safe a. 安全的，可靠的 
+      1018. disconnect vt. 拆接，断开，拆线 
+      1019. clockwise a. 顺时针的 
+      1020. eliminate vt. 除去，消除，切断 
+      1021. actual a. 实际的，现实的 
+      1022. declaration n. 说明，申报 
+      1023. probably ad. 多半，很可能 
+      1024. ring n. & v. 环，圈；按铃 
+      1025. cover vt. 盖，罩，套 
+      1026. indicator n. 指示器，指示灯 
+      1027. apple n. 苹果 
+      1028. icon n. 图符，象征 
+      1029. consideration n. 考虑，研究，讨论 
+      1030. skill n. 技巧 
+      1031. picture n. 图象，画面 
+      1032. layout n. 布置，布局，安排 
+      1033. suggest vt. 建议，提议，暗示 
+      1034. convenient a. 方便的，便利的 
+      1035. instruct vt. 讲授，命令 
+      1036. appendix n. 附录 
+      1037. medium n. & a. 媒体；中等的 
+      1038. truncate vt. 截尾，截断 
+      1039. inhibit vt. 禁止 
+      1040. nearly ad. 近乎，差不多，几乎 
+      1041. warn vt. 警告，警戒，预告 
+      1042. underline n. 下划线 
+      1043. register n. 寄存器 
+      1044. stuff n. & vt. 材料；装入 
+      1045. exclude vt. 排除，除去 
+      1046. destroy vt. 破坏，毁坏，打破 
+      1047. calculation n. 计算，统计，估计 
+      1048. angle n. 角，角度 
+      1049. lexical a. 辞典的，词法的 
+      1050. decide v. (使)判定，判断 
+      1051. trouble n. 故障 
+      1052. processing n. (数据)处理，加工 
+      1053. customer n. 顾客，客户 
+      1054. port n. 端口，进出口 
+      1055. discuss vt. 讨论，论述 
+      1056. segment n. 段，片段，图块 
+      1057. filing n. (文件的)整理汇集 
+      1058. identically ad. 相等，恒等 
+      1059. market n. 市场，行情，销路 
+      1060. valuable a. 有价值的，贵重的 
+      1061. limited a. 有限的，(受)限制的 
+      1062. trying a. 费劲的，困难的 
+      1063. heap n. 堆阵 
+      1064. grey n. & a. 灰色；灰色的 
+      1065. permanently ad. 永久地，持久地 
+      1066. accelerator n. 加速装置，加速剂 
+      1067. originally ad. 原来，最初 
+      1068. ability n. 性能，能力，效率 
+      1069. internally ad. 在内(部) 
+      1070. derelict vt. 中途淘汰 
+      1071. redirect vt. 重定向 
+      1072. reside vi. 驻留 
+      1073. header n. 首部，标题，报头 
+      1074. extra a. 特别的，额外的 
+      1075. repeated a. 重复的 
+      1076. death n. 毁灭，消灭 
+      1077. observe v. 观察，探测 
+      1078. density n. 密度 
+      1079. management n. 管理 
+      1080. environmental a. 周围的，环境的 
+      1081. surrounding a. 周围的，环绕的 
+      1082. master a. 总要的，总的 
+      1083. recursive a. 递归的，循环的 
+      1084. trap n. & vt. 陷阱；俘获 
+      1085. dimensional n. 尺寸的，…维的 
+      1086. logic n. 逻辑(线路) 
+      1087. conjunction n. 逻辑乘，“与” 
+      1088. identical a. 相等的，相同的 
+      1089. advice n. 意见，参考说明 
+      1090. meaning n. 意义，含义 
+      1091. fall n. 落下，降落 
+      1092. interval n. 间歇，区间 
+      1093. compatibility n. 兼容性，适应性 
+      1094. rule n. 规则，法则，尺 
+      1095. flag n. 标志(记)，特征(位) 
+      1096. criterion n. 标准，判据，准则 
+      1097. office n. 办公室，局，站 
+      1098. express a. 快速的 
+      1099. volume n. 卷，册，体积，容量 
+      1100. soft a. 软的 
+      1101. rated a. 额定的 
+      1102. activity n. 活力，功率 
+      1103. odometer n. 里程表，计程仪 
+      1104. phoenix n. 凤凰，绝世珍品 
+      1105. obtain v. 获得，得到 
+      1106. easel n. 框，(画)架 
+      1107. latter a. 后面的，最近的 
+      1108. decrease v. 减少，降低，缩短 
+      1109. mainframe n. 主机，大型机 
+      1110. debugger n. 调试程序 
+      1111. diacritical a. 区分的，辩别的
+1112. confidential a. 机密的 
+      1113. trace v. 跟踪，追踪 
+      1114. division n. 除，除法，(程序)部分 
+      1115. regular a. 正则的，正规的 
+      1116. implicit a. 隐式的 
+      1117. mention vt. & n. 叙述，说到 
+      1118. near ad. & prep. 领近，接近 
+      1119. fifth n. & a. 第五，五分之一 
+      1120. seven n. & a. 七(个) 
+      1121. whereas conj. 面，其实，既然 
+      1122. review v. & n. (再)检查 
+      1123. whatever pron. & a. 无论什么 
+      1124. transform v. & n. 变换，变换式 
+      1125. align v. & n. 定位，对准 
+      1126. yellow a. & n. 黄色(的) 
+      1127. assist v. & n. 加速，帮助 
+      1128. finish v. & n. 完成，结束 
+      1129. micro a. & n. 微的，百万分之一 
+      1130. beyond prep. 超过，那边 
+      1131. against prep. 反对，阻止 
+      1132. upon prep. 依据，遵照 
+      1133. service n. & vt. 服务，业务 
+      1134. little a. 小的，少量的 
+      1135. exhaust v. 取尽，用完 
+      1136. choice n. 选择，精品 
+      1137. sounding a. 发声的 
+      1138. develop v. 发展，研制，显影 
+      1139. holding n. 保持，固定，存储 
+      1140. alpha n. 希腊字母α，未知数 
+      1141. constant n. 常数 
+      1142. warranty n. 保证(书)，授权 
+      1143. stay v. 停止，停留 
+      1144. industry n. 工业 
+      1145. trigger n. & v. 触发器；触发 
+      1146. lesson n. 功课，教训 
+      1147. handling n. 处理，操纵 
+      1148. treat v. 处理，加工 
+      1149. busy a. 忙碌的，占线的 
+      1150. usage n. 应用，使用，用法 
+      1151. difficult a. 困难的，不容易的 
+      1152. failure n. 失效，故障，失败 
+      1153. communication n. 通信 
+      1154. building n. 建造，建筑，房屋 
+      1155. ally v. 联合，与…关联 
+      1156. exclamation n. 惊叹(号) 
+      1157. turning a. 转弯的，旋转的 
+      1158. whole a. 全部的，整个的 
+      1159. parent n. 双亲，父代 
+      1160. connection n. 连接(法) 
+      1161. connectivity n. 连通性，联络性 
+      1162. translation n. 翻译，变换，平移 
+      1163. dynamic a. 动态的，动力的 
+      1164. foreground n. 前台 
+      1165. preserve vt. 保存，维持 
+      1166. vice n. 缺点，毛病，错误 
+      1167. necessarily ad. 必定，当然 
+      1168. circle n. 圆，圈，循环，周期 
+      1169. differ vi. 不同，不一致 
+      1170. stationary a. 静止的，平稳的 
+      1171. extract vt. 抽取，摘录，开方 
+      1172. unrecognized a. 未被认出的 
+      1173. thereafter ad. 此后，据此 
+      1174. inverse a. 反向的，逆的 
+      1175. spell v. 拼写 
+      1176. limiting n. (电路参数)限制处理 
+      1177. restructure vt. 调整，重新组织 
+      1178. delimit vt. 定界，定义 
+      1179. pay v. 付款，支付 
+      1180. separately ad. 分别地 
+      1181. classify vt. 分类，分级 
+      1182. interfere vi. 干涉，干扰，冲突 
+      1183. mind n. 愿望，想法，智力 
+      1184. individually ad. 个别地，单独地 
+      1185. vertical a. 垂直的，立(式)的 
+      1186. undesirable a. 不合乎需要的 
+      1187. lot n. 一块(批，组，套) 
+      1188. piece n. 一块，部分，段 
+      1189. unavailable a. 不能利用的 
+      1190. unlike a. 不象的，不同的 
+      1191. sit v. 位于，安装 
+      1192. insufficient a. 不足的，不适当的 
+      1193. map n. & vt. 图；映射，变址 
+      1194. figure n. 数字；图，图形，形状 
+      1195. prepare v. 准备 
+      1196. consider v. 考虑，认为，设想 
+      1197. detect vt. 检测 
+      1198. convenience n. 方便，便利 
+      1199. method n. 方法，方案 
+      1200. mean n. & vt. 平均；意味着 
+      1201. salary n. & vt. 薪水；发工资 
+      1202. pacific a. 平稳的，太平(洋)的 
+      1203. strong a. 强的 
+      1204. emphasize v. 强调，着重，增强 
+      1205. department n. 部门，门类，系 
+      1206. forced a. 强制的，压力的 
+      1207. ansi n. 美国国家标准协会 
+      1208. permanent a. 永久的 
+      1209. remark n. 评注，备注 
+      1210. away ad. 离开，(去)掉 
+      1211. concatenate vt. 连接，串联，并置 
+      1212. lightning n. 闪电 
+      1213. additionally ad. 另外，又 
+      1214. emulate v. 仿真，模仿；赶上或超过 
+      1215. tape n. 磁带，纸带 
+      1216. accidentally ad. 偶然地 
+      1217. concept n. 概念 
+      1218. optimize v. 优选，优化 
+      1219. counter n. 计数器，计算器 
+      1220. expect vt. 期望，期待，盼望 
+      1221. subsequently ad. 其后，其次，按着 
+      1222. registration n. 登记，挂号，读数 
+      1223. city n. 城市，市区 
+      1224. designate vt. 任命，标志 
+      1225. visible a. 可见的，明显的 
+      1226. consult v. 咨询，顾问 
+      1227. completely ad. 十分，完全，彻底 
+      1228. virtually ad. 实际上 
+      1229. substantially ad. 实质上，本质上 
+      1230. specialize v. (使)专门化 
+      1231. fail n. 故障，失效 
+      1232. primarily ad. 首先，起初，原来 
+      1233. sequentially ad. 顺序地 
+      1234. client n. 顾客，买主
+1235. runtime n. 运行时间 
+      1236. fix v. 固定，定影 
+      1237. author n. 程序设计者，作者 
+      1238. programmer n. 程序设计人员 
+      1239. commercial a. 商业的，经济的 
+      1240. particularly ad. 特别，格外，尤其 
+      1241. low a. 低的，浅的，弱的 
+      1242. sheet n. (图)表，纸，片 
+      1243. employee n. 雇员 
+      1244. legal a. 合法的，法律的 
+      1245. qualified a. 合格的，受限制的 
+      1246. context n. 上下文，来龙去脉 
+      1247. involved a. 有关的 
+      1248. conditional a. 有条件的 
+      1249. halfway a. 中途的，不彻底的 
+      1250. oriented a. 有向的，定向的 
+      1251. pair n. (一)对，一双 
+      1252. week n. (一)星期，(一)周 
+      1253. suppressed vt. 抑制，取消 
+      1254. subroutine n. 子程序 
+      1255. bracketed a. 加括号的 
+      1256. manually ad. 用手，手动地 
+      1257. preset vt. 预置 
+      1258. autoindex n. 自动变址(数) 
+      1259. restrict vt. 约束，限制 
+      1260. performance n. 性能，实绩 
+      1261. showing n. 显示，表现 
+      1262. ever ad. 在任何时候，曾经 
+      1263. distribution n. 分布，分配 
+      1264. denote vt. 指示，意味着，代表 
+      1265. cash n. 现金 
+      1266. repeatedly ad. 重复地 
+      1267. replicate vt. 重复，复制 
+      1268. mega n. 兆，百万 
+      1269. conform vi. 遵从，符合 
+      1270. rebuild v. 重建，修复，改造 
+      1271. certainty n. 必然，确实 
+      1272. controller n. 控制器 
+      1273. pseudo a. 假的，伪的，冒充的 
+      1274. manage v. 管理，经营，使用 
+      1275. administrator n. 管理人，行政人员 
+      1276. ensemble n. 总体，集合体 
+      1277. bus n. 总线，信息通路 
+      1278. allowable a. 容许的，承认的 
+      1279. limitations n. 限制，边界 
+      1280. restriction n. 限制，约束，节流 
+      1281. height n. 高度 
+      1282. remainder n. 余数，余项，剩余 
+      1283. traverse v. 横渡，横过，横断 
+      1284. organization n. 结构，机构，公司 
+      1285. resulting a. 结果的，合成的 
+      1286. solution n. 解，解法，解答 
+      1287. external a. 外部的 
+      1288. adequate a. 足够的，充分的 
+      1289. interpretability n. 配合动作性 
+      1290. vary v. 变化，变换 
+      1291. gap n. 间隙，间隔，缝隙 
+      1292. indexing n. 变址，标引，加下标 
+      1293. board n. 板，插件板 
+      1294. package n. 插件，(软件)包 
+      1295. insertion n. 插入，嵌入，插页 
+      1296. intervene vi插入，干涉 
+      1297. conflict v. 冲突，碰头 
+      1298. really a. 真正地，确实地 
+      1299. overflow v. 溢出，上溢 
+      1300. charge n. 电荷，充电，负荷 
+      1301. phone n. 电话，电话机，音素 
+      1302. virtual a. 虚(拟)的，虚拟 
+      1303. compose v. 组成，构成，构图 
+      1304. snapshot n. 抽点打印 
+      1305. sensitivity n. 灵敏度 
+      1306. familiar a. 熟悉的，惯用的 
+      1307. mach n. 马赫(速度单位) 
+      1308. incorrect a. 错误的，不正确的 
+      1309. cut v. 割，切 
+      1310. lowest a. 最低的，最小的 
+      1311. simple a. 简单的 
+      1312. subsequent a. 后来的，其次的 
+      1313. capitalized a. 大写的 
+      1314. compact a. 紧致的，压缩的 
+      1315. plain n. 明码 
+      1316. noted a. 著名的 
+      1317. desirable a. 所希望的，称心的 
+      1318. substitution n. 代替，替换，置换 
+      1319. consume v. 消耗，使用 
+      1320. forget v. 忘记 
+      1321. keyed a. 键控的 
+      1322. overstrike n. 过打印 
+      1323. tornado n. 旋风，龙卷风 
+      1324. quotation n. 引证，引用(句) 
+      1325. ones n. 二进制反码 
+      1326. parse vt. (语法)分析 
+      1327. experience vt. & n. 试验 
+      1328. manufacture vt. & n. 制造(业)，工业 
+      1329. hundred n. & a. (一)百，百个 
+      1330. thousand n. & a. (一)千，无数的 
+      1331. twentieth n. & a. 第二十(的) 
+      1332. understanding n. & a. 了解的，聪明的 
+      1333. hand n. & a. 手，手工(动)的 
+      1334. restricting n. & a. 限制(的) 
+      1335. fancy n. & a. 想象(的)，精制的 
+      1336. wide a. & ad. 宽的，广阔的 
+      1337. fine a. & ad. 微小的，细的 
+      1338. worry v. & n. (使)烦恼 
+      1339. somewhat pron. & ad. 稍微，有点 
+      1340. quiet a. & n. 静态，静止的 
+      1341. purge v. & n. 清除 
+      1342. mod a. & n. 时髦的 
+      1343. numeral n. & n. 数字的，数码 
+      1344. whichever a. & pron. 无论哪个 
+      1345. purchase n. & v. 购买 
+      1346. care n. & v. 关心，注意 
+      1347. watch n. & v. 监视，观测 
+      1348. endeavor n. & v. 尽力，力图 
+      1349. mismatch n. & vt. 失配，不匹配 
+      1350. printout n. 印出 
+      1351. ellipsis n. 省略符号，省略(法) 
+      1352. ship n. 舰，船 
+      1353. british a. & n. 英国的；英国人 
+      1354. parallel a. 并行 
+      1355. custom a. & n. 常规的，惯例；用户 
+      1356. congratulation n. 祝贺 
+      1357. protection n. 保护 
+      1358. glass n. 玻璃 
+      1359. pattern n. 模式 
+      1360. insure v. 保证，保障 
+      1361. stopping n. 停止，制动(状态) 
+      1362. factory n. 工厂，制造厂 
+      1363. implement n. & vt. 工具；执行，实现 
+      1364. effort n. 工作，研究计划 
+      1365. worker n. 工作人员 
+      1366. ampersand n. &号(and) 
+      1367. deal v. 处理，分配，交易 
+      1368. power n. 功率，电源，幂 
+      1369. difficulty n. 困难，难点 
+      1370. lose n. 失去，损失 
+      1371. magic n. 魔术，幻术 
+      1372. proprietary a. 专有的 
+      1373. aware a. 知道的，察觉到的 
+      1374. numerous a. 为数众多的，无数的 
+      1375. vowel n. 元音，母音 
+      1376. closely a. 精密地，仔细地 
+      1377. accuracy n. 精确度，准确度 
+      1378. traditional a. 传统的，惯例的 
+      1379. synchronization n. 同步 
+      1380. fragment n. 片段，段，分段 
+      1381. primary a. 原始的，主要的 
+      1382. safely ad. 安全地，确实地 
+      1383. habit n. 习惯 
+      1384. comprise vt. 包括，由…组成 
+      1385. landler n. 兰德勒舞曲 
+      1386. absence n. 缺少，没有 
+      1387. revolutionize vt. 变革，彻底改革 
+      1388. constantly ad. 不变地，经常地 
+      1389. seldom ad. 不常，很少，难得 
+      1390. unfortunately ad. 不幸，遗憾地 
+      1391. expunge vt. 擦除，删掉 
+      1392. security n. 安全性，保密性 
+      1393. touch v. & n. 按，揿，触；触力 
+      1394. contrast n. 反差，对比，对比度 
+      1395. invent vt. 创造，想象 
+      1396. reflect v. 反射 
+      1397. undone a. 未完成的 
+      1398. unshift v. 未移动，不移档 
+      1399. complex a. & n. 复杂的；复数 
+      1400. complexity n. 复杂性，复杂度 
+      1401. creation n. 创造，创作 
+      1402. unknown a. 未知的，无名的 
+      1403. greatly ad. 大大地，非常 
+      1404. cost n. 值，价值，成本 
+      1405. degrade v. 降低，减少，递降 
+      1406. suggestion n. 暗示，提醒 
+      1407. real n. 实数，实的，实型 
+      1408. experimentation n. 实验(工作，法) 
+      1409. experiment n. 实验，试验(研究) 
+      1410. substantial a. 实质的，真正的 
+      1411. solely ad. 独自，单独，只 
+      1412. announce vt. 发表，宣布 
+      1413. squeeze v. 挤压 
+      1414. distribute vt. 分布，配线，配给 
+      1415. negate vt. 否定，求反，“非” 
+      1416. capture vt. 俘获，捕捉 
+      1417. father n. 父，上层(树节点的) 
+      1418. reinstate vt. 复原，恢复 
+      1419. tutorial a. 指导的 
+      1420. nicety n. 细节，精细 
+      1421. roll n. & v. 案卷；卷动，滚动 
+      1422. exponent n. 指数，阶，幂 
+      1423. exponential a. 指数的，幂的，阶的 
+      1424. prefer vt. 更喜欢，宁愿 
+      1425. complicated v. 使复杂化，使混乱 
+      1426. reactivate v. 使恢复活动 
+      1427. spread v. 展开，传播 
+      1428. synchronize v. 使同步 
+      1429. formation n. 构造，结构，形成 
+      1430. widely ad. 广泛，很远 
+      1431. comma n. 逗号“,”，逗点 
+      1432. very ad. 很，非常，最 
+      1433. unnecessary a. 不必要的，多余的 
+      1434. unchanged a. 不变的 
+      1435. cross n. 交叉，十字准线 
+      1436. yet ad. 还，仍然，至今 
+      1437. slowly ad. 缓慢地 
+      1438. inexperienced a. 不熟练的，外行的 
+      1439. noninteractive a. 不相关的，非交互的 
+      1440. unwanted a. 不需要的，多余的 
+      1441. unused a. 不用的，空着的 
+      1442. unmarked a. 没有标记的 
+      1443. nothing n. 没有任何东西 
+      1444. chart n. 图(表) 
+      1445. dearly ad. 极，非常，昂贵地 
+      1446. extremely ad. 极端地，非常 
+      1447. hardly ad. 几乎不，未必 
+      1448. placement n. 布局 
+      1449. think v. 考虑，以为，判断 
+      1450. technical a. 技术的，专业的 
+      1451. idea n. 思想，观念 
+      1452. stamp n. 图章 
+      1453. indirectly ad. 间接地 
+      1454. equation n. 方程，方程式 
+      1455. smooth v. & a. 平滑；平滑的 
+      1456. attached a. 附加的
+1457. average n. 平均，平均数 
+      1458. quietly ad. 静静地 
+      1459. discard v. 删除，废除，放弃 
+      1460. never ad. 决不，从来不 
+      1461. initiate vt. 开创，起始 
+      1462. powerful a. 强大的，大功率的 
+      1463. purpose n. & vt. 目的，用途；打算 
+      1464. regard vt. 考虑，注意，关系 
+      1465. daily a. 每日的，日常的 
+      1466. possibly ad. 可能地，合理地 
+      1467. potentially ad. 可能地，大概地 
+      1468. moreover ad. 况且，并且，此外 
+      1469. american a. 美国的 
+      1470. guard v. & n. 防护；防护装置 
+      1471. world n. 世界，全球 
+      1472. independent a. 独立的 
+      1473. independently a. 独立地 
+      1474. continuously ad. 连续不断地 
+      1475. shield v. 屏蔽，罩，防护 
+      1476. glance n. 闪烁 
+      1477. happening n. 事件，偶然发生的事 
+      1478. transaction n. 事项，事务，学报 
+      1479. emulation n. 仿真，仿效 
+      1480. strike v. 敲，击 
+      1481. dump v. (内存信息)转储 
+      1482. occasionally ad. 偶尔(地)，不时 
+      1483. tension n. 张力 
+      1484. probable a. 概率的，可能的 
+      1485. talent n. 才能，技能，人才 
+      1486. financial a. 财务的，金融的 
+      1487. meter n. 仪表，米 
+      1488. logged a. 记录的，浸透的 
+      1489. ware n. 仪器，商品 
+      1490. disregard vt. 轻视，把…忽略不计 
+      1491. waiting a. 等待的 
+      1492. preceding a. 先的，以前的 
+      1493. comparison n. 比较，对照 
+      1494. advanced a. 先进的，预先的 
+      1495. rate n. 比率，速率，费率 
+      1496. fly v. 飞，跳过 
+      1497. programmable a. 可编程的 
+      1498. definable a. 可定义的，可确定的 
+      1499. readable a. 可读的 
+      1500. recoverable a. 可恢复的，可回收的 
+      1501. possibility n. 可能性 
+      1502. finisher n. 成品机 
+      1503. applicable a. 可适用的，合适的 
+      1504. printable a. 可印刷的 
+      1505. executable a. 可执行的 
+      1506. essentially ad. 实质上，本来 
+      1507. confuse vt. 使混乱，干扰 
+      1508. familiarize vt. 使熟悉，使通俗化 
+      1509. employe vt. 使用，花费 
+      1510. suitable a. 适合的，相适宜的 
+      1511. generation n. (世)代，(发展)阶段 
+      1512. quality n. 质量，性质，属性 
+      1513. defective a. 故障的，有毛病的 
+      1514. interpretable a. 彼此协作的 
+      1515. interest n. 兴趣，注意，影响 
+      1516. fourscore n. 八十 
+      1517. teach v. 教，讲授 
+      1518. procedural a. 程序上的 
+      1519. phrase n. 短语，成语 
+      1520. specifically ad. 特别地，逐一地 
+      1521. penalty n. 惩罚，罚款，负担 
+      1522. violate vt. 违犯，妨碍，破坏 
+      1523. indefinitely ad. 无限地，无穷地 
+      1524. major a. 较大的，主要的 
+      1525. higher a. 较高的 
+      1526. wise a. 聪明的 
+      1527. becoming a. 合适的，相称的 
+      1528. equally ad. 相等地，相同地 
+      1529. enjoy vt. 享受，欣赏，喜爱 
+      1530. forth ad. 向前 
+      1531. disappear vi. 消失 
+      1532. crop v. 切，剪切 
+      1533. diagonally ad. 斜(对) 
+      1534. labeled a. 有标号的 
+      1535. decision n. 判定，决定，决策 
+      1536. effective a. 有效的 
+      1537. significant a. 有效的，有意义的 
+      1538. avail v. & n. 有益于；利益 
+      1539. hang v. 中止，暂停，挂起 
+      1540. craze n. & v. 裂纹开裂 
+      1541. consequently ad. 因此，从而 
+      1542. introduce vt. 引进，引导 
+      1543. team n. 队，小组 
+      1544. visual a. 视觉的，直观的 
+      1545. acknowledgment n. 接收(收妥)，承认 
+      1546. efficiently ad. 有效地 
+      1547. predict vt. 预测，预言 
+      1548. anticipate vt. 预先考虑，抢…先 
+      1549. bypass n. 旁路 
+      1550. nature n. 自然，天然 
+      1551. natural a. 自然的 
+      1552. grant vt. 允许，授权 
+      1553. logarithm n. 对数 
+      1554. reappears vi. 再现，重现 
+      1555. reload vt. 再装入 
+      1556. occupy vt. 占有，充满 
+      1557. photograph n. 照片；v.照相 
+      1558. terminating n. 终止，终结，收信 
+      1559. resolve v. 分辨，解像 
+      1560. unsafe v. 恢复 
+      1561. separator n. 分隔符 
+      1562. hierarchical a. 分级的，分层的 
+      1563. assortment n. 种类，花色品种 
+      1564. growing n. 分类，分组，成群 
+      1565. discussion n. 讨论，商议，论述 
+      1566. alphabet n. 字母，字母表 
+      1567. scattered a. 分散的 
+      1568. eventually ad. 终于，最后 
+      1569. finally ad. 终于，最后 
+      1570. subgroup n. 分组，子群 
+      1571. superimpose vt. 重叠，叠加 
+      1572. reorganization vt. 重排，改组 
+      1573. rewrite vt. 重写，再生 
+      1574. university n. (综合性)大学 
+      1575. deter vt. 阻止，拦住，妨碍 
+      1576. pool n. & v. 池，坑；共享 
+      1577. moment n. 矩，力矩，磁矩 
+      1578. shut v. 关闭 
+      1579. closed a. 关闭的，闭迹 
+      1580. respond v. 回答，响应 
+      1581. repeating n. 重复，循环 
+      1582. repetitive a. 重复的 
+      1583. reenter v. 重新进入 
+      1584. rearrange v. 重新整理，重新排序 
+      1585. rectangular a. 矩形的，成直角的 
+      1586. tag n. 特征，标记，标识符 
+      1587. suppose v. 假定，推测 
+      1588. supposed a. 假定的，推测的 
+      1589. manipulating v. 操纵，操作 
+      1590. operator n. 操作员，运算符 
+      1591. masking n. 掩蔽，屏蔽 
+      1592. price n. 价格 
+      1593. demonstrate v. 论证，证明，证实 
+      1594. importance n. 价值，重要 
+      1595. pipe n. 管，导管 
+      1596. overall a. 总共的，全部的 
+      1597. turnkey n. 总控钥匙 
+      1598. restricted a. 受限制的，受约束的 
+      1599. suspension n. 暂停，中止，挂起 
+      1600. seamless a. 无缝的 
+      1601. clipper n. 限幅器，钳位器 
+      1602. unsigned a. 无符号的 
+      1603. unformatted a. 无格式的 
+      1604. infinite a. 无限的，无穷的 
+      1605. useless a. 无用的 
+      1606. limiter n. 限制(幅)器 
+      1607. mountain n. 高山，山脉 
+      1608. redundant a. 冗余的 
+      1609. dependent a. 相关的 
+      1610. contiguous a. 相连的，邻接的 
+      1611. consistent a. 相容的，一致的 
+      1612. multiprocessing n. 多重处理，多道处理 
+      1613. architecture n. 结构，构造 
+      1614. structural a. 结构的，结构上的 
+      1615. outcome n. 结果，成果，输出 
+      1616. association n. 结合，协会，联想 
+      1617. opinion n. 意见，见解，判断 
+      1618. interpret v. 解释 
+      1619. explanatory a. 解释(性)的 
+      1620. assemble v. 汇编，装配 
+      1621. assembler n. 汇编程序 
+      1622. cad 计算机辅助设计 
+      1623. arithmetic n. 算术，运算 
+      1624. varying a. 变化的，可变的 
+      1625. representative a. 典型的，表示的 
+      1626. typical a. 典型的，标准的 
+      1627. sufficient a. 充足的，足够的 
+      1628. blast v. & n. 清除；爆炸 
+      1629. clean a. 清洁的，干净的 
+      1630. caret n. 插入符号 
+      1631. socket n. 插座，插孔，插口 
+      1632. stated a. 规定的 
+      1633. protocol n. 规约，协议，规程 
+      1634. presence n. 存在，有 
+      1635. telephone n. 电话 
+      1636. social a. 社会的 
+      1637. equipment n. 设备，装备，仪器 
+      1638. lending n. & a. 借给，出租；借出的 
+      1639. book n. 书，手册，源程序块 
+      1640. circumstances n. 情况，环境，细节 
+      1641. situation n. 情况，状况，势态 
+      1642. desk n. 书桌，控制台，面板 
+      1643. please v. 请 
+      1644. mixture n. 混合物 
+      1645. representation n. 表示 
+      1646. esoteric a. 深奥的，奥秘的 
+      1647. depth n. 深度，浓度(颜色的) 
+      1648. final a. 最终的 
+      1649. physically a. 物理上，实际上 
+      1650. aid n. 帮助，辅助程序 
+      1651. successive a. 逐次的，相继的 
+      1652. succession n. 逐次性，连续性 
+      1653. unpack v. 拆开，卸，分开 
+      1654. chunk n. 厚块，大部分 
+      1655. alignment n. 序列，成直线 
+      1656. typewriter n. 打字机 
+      1657. big a. 大的，重要的 
+      1658. tone n. 音调，音色，色调 
+      1659. sensitive a. 敏感的，灵敏的 
+      1660. reduction n. 减化，还原，减少 
+      1661. indentation n. 缩进，缩排 
+      1662. terminology n. 术语 
+      1663. ascending a. 增长的，向上的 
+      1664. augment v. 增加，添加，扩充 
+      1665. increment n. 增量，加１，递增 
+      1666. gain n. 增益(系数) 
+      1667. stream n. 流 
+      1668. obsolete a. 作废的，过时的 
+      1669. accommodate v. 调节，适应 
+      1670. motif n. 主题，要点，特色 
+      1671. subject n. 主题，源 
+      1672. job n. 作业 
+      1673. differentiate v. 区别，分辨 
+      1674. distinction n. 区别，相异，特性 
+      1675. distinguish v. 区别，辨识 
+      1676. locking n. 锁定，加锁 
+      1677. progress n. 进度，进展 
+      1678. fundamental a. 基本的，根本的 
+      1679. basis n. 基础，座 
+      1680. underlying a. 基础的，根本的 
+      1681. sound n. 声音，音响 
+      1682. vital a. 生动的，不可缺少的 
+      1683. national a. 国家的 
+      1684. sale n. 销售，销路 
+      1685. agree v. 符合，相同 
+      1686. iterative a. 迭代的 
+      1687. inclusive a. 包括的，内含的 
+      1688. charm n. 吸引力 
+      1689. hit v. 命中，瞬时干扰 
+      1690. course n. 过程，航向，课程 
+      1691. exceeded a. 过度的，非常的 
+      1692. numerical a. 数量的，数字的 
+      1693. digital a. 数字的 
+      1694. combo n. 二进位组合码 
+      1695. cord n. 绳子，电线
